@@ -13,10 +13,10 @@
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies used
- - html
- - css
- - Javascript
- - Markdown
+ html
+ css               
+ Javascript
+ Markdown
 ## Support and contact details
 {Incase of any concerns,issues,questions or ideas please contact me through my email at emmaKibore@gmail.com. Alternatively you could reach me throughss my mobile phone at 0702499205.}
 ### License
