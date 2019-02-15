@@ -3,15 +3,6 @@
 #### By **{Emma Kibore}**
 ## Description
 {This is a programme that indicates whether a triangle is equilateral,Isosceles or Scalene.}
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies used
  html
  css               
