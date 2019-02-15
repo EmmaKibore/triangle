@@ -1,8 +1,8 @@
 # {Triangle Tracker}
-#### {Brief description of application}, {Date of current version}
+#### {This is a great programme that identifies various types of triangles}, {Date of current version}
 #### By **{Emma Kibore}**
 ## Description
-{Triangle tracker is a great programme that tells you the type of triangle you have.}
+{This is a programme that indicates whether a triangle is equilateral,Isosceles or Scalene.}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
