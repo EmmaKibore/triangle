@@ -23,4 +23,6 @@ Emma Kibore
 ## Support and contact details
  Incase of any concerns,issues,questions or ideas please contact me through my email at emmaKibore@gmail.com. Alternatively you could reach me through my mobile phone at 0702499205.
 
-## L
+## MIT License
+
+Copyright (c) 2019 EmmaKibore
