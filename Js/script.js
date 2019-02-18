@@ -1,12 +1,11 @@
 
 
 function checkTriangle() {
-  //user interface
+
   var sideA = parseInt(document.getElementById("sidea").value);
   var sideB = parseInt(document.getElementById("sideb").value);
   var sideC = parseInt(document.getElementById("sidec").value);
-  console.log("values -- " + sideA);
-  //business logic
+  alert("values -- " + sideA);
   if (sideA + sideB <=sideC || sideB + sideC <= sideA || sideC + sideA <= sideB) {
   alert("Cannot form a triangle");
   }

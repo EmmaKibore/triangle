@@ -2,7 +2,7 @@
 #### {This is a great programme that identifies various types of triangles}
 #### By **{Emma Kibore}**
 ## Description
-{Triangle tracker takes the lengths of three sides and determines if they form a valid triangle.If so, the tracker returns the name of the kind of triangle the sides make(Equilateral, Isosceles or Scalene)}
+Triangle tracker takes the lengths of three sides and determines if they form a valid triangle.If so, the tracker returns the name of the kind of triangle the sides make(Equilateral, Isosceles or Scalene)}
 ## Technologies used
  html
  css               
