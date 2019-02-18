@@ -13,4 +13,7 @@ Emma Kibore
 ## BDD 
 | Behaviour | Input | Output |
 | --- | --- | --- |
-| Scalene | 
+| Scalene | a=2<br>b=3<br>c=4 | Scalene triangle
+| Equilateral | a=6<br>b=8<br>c=9 | Equilateral triangle
+| Isosceles | a=8<br>b=10<br>c=12 | Isosceles triangle
+| No triangle | a=4<br>b=6<br>c=14 | No triangle
