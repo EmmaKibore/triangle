@@ -1,5 +1,5 @@
 # Triangle Tracker
-## Descriptle
+## Description
  This is a programme that indicates whether a triangle is equilateral,Isosceles or Scalene.
 ## Author
 Emma Kibore
